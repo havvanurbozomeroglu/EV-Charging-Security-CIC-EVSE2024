@@ -1,7 +1,7 @@
 
 # Elektrikli Araç Şarj İstasyonlarının Siber Güvenliği: CIC-EVSE 2024 Veri Kümesi ile IDS Sistemlerinin Performans Analizi (EV-Charging-Security-CIC-EVSE2024)
 
-ttps://doi.org/10.1109/ISCTrkiye64784.2024.10779263
+https://doi.org/10.1109/ISCTrkiye64784.2024.10779263
 
 Havvanur BOZÖMEROĞLU¹*, Zeynep GÜRKAŞ AYDIN¹
 
